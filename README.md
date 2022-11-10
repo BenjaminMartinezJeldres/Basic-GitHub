@@ -1,2 +1,14 @@
 # BasicGit
 Comandos basicos y pasos a seguir para Github
+1)abrir CMD Git 
+2)buscar la direccion con cd 
+3)clonamos el link de git
+3)(opcional)creamos un archivo en la carpeta en la que trabajaremos
+4)git status para ver lo nuevo que creamos
+/archivo.algo
+5)git add archivo.algo || git add .(para agregar todo lo creado)
+6)git commit -m "descripcion que estara en internet "
+7)git push        //para subir a la net 
+
+
+izi pizi ya sabes usar github
